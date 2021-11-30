@@ -1229,7 +1229,6 @@ Blog
   background-color: #fff;
   box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
   border-radius: 20px;
-  margin-right:0px;
   margin-left:110px;
   position: absolute;
   margin-top: -60px;
@@ -1717,7 +1716,7 @@ responsive
   }
   .our-blog .left-image .info .inner-content {
     position: relative;
-    margin-right: 0px;
+    margin-left: 0px;
   }
   .our-blog .left-image .info .main-blue-button {
     position: relative;
