@@ -1601,7 +1601,7 @@ footer .item.social>a:hover {
 
 footer p {
   text-align: center;
-  margin: 30px 0px 45px 0px;
+  margin: 30px 0px 20px 0px;
 }
 
 footer p a {
@@ -1745,7 +1745,7 @@ responsive
     display: none;
   }
   footer p {
-    margin: 15px 0px 30px 0px;
+    margin: 15px 0px 15px 0px;
   }
 }
 
