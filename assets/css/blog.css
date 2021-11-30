@@ -1696,6 +1696,11 @@ responsive
       background: #fff;
       color: #000;
   }*/
+ 
+  .fl-fl{
+    display:none;
+  }
+
   .our-portfolio .section-heading h2 {
     margin: 0px 0px 80px 0px;
     font-family: 'Popins';
