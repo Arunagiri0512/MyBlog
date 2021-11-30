@@ -1476,23 +1476,23 @@ footer ul {
   display:block;
   margin: 0 auto;
 } */
-footer .social-icon {
+.footer .social-icon {
   color: #fff;
 }
-footer ul.social-icons {
+.footer ul.social-icons {
   margin-top: 10px;
   text-align: center;
 }
-footer .social-icons li {
+.footer .social-icons li {
   vertical-align: top;
   display: inline;
   height: 100px;
 }
-footer .social-icons a {
+.footer .social-icons a {
   color: #fff;
   text-decoration: none;
 }
-footer .fa-instagram {
+.footer .fa-instagram {
   padding:10px 14px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1502,10 +1502,10 @@ footer .fa-instagram {
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd499d 45%,#d6249f 60%,#285AEB 90%);
 }
 
-footer .fa-instagram:hover {
+.footer .fa-instagram:hover {
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd499d 45%,#d6249f 60%,#285AEB 90%);
 }
-footer .fa-twitter {
+.footer .fa-twitter {
   padding:10px 12px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1514,10 +1514,10 @@ footer .fa-twitter {
   transition: .5s;
   background-color: #00aced;
 }
-footer .fa-twitter:hover {
+.footer .fa-twitter:hover {
   background-color: #00aced;
 }
-footer .fa-envelope {
+.footer .fa-envelope {
   padding:10px 14px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1526,7 +1526,7 @@ footer .fa-envelope {
   transition: .5s;
   background-color: #ffed4b;
 }
-footer .fa-youtube {
+.footer .fa-youtube {
   padding:10px 14px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1535,10 +1535,10 @@ footer .fa-youtube {
   transition: .5s;
   background-color: #322f30;
 }
-footer .fa-youtube:hover {
+.footer .fa-youtube:hover {
   background-color: #e64a41;
 }
-footer .fa-linkedin {
+.footer .fa-linkedin {
   padding:10px 14px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1547,10 +1547,10 @@ footer .fa-linkedin {
   transition: .5s;
   background-color: #0073a4;
 }
-footer .fa-linkedin:hover {
+.footer .fa-linkedin:hover {
   background-color: #0073a4;
 }
-footer .fa-github {
+.footer .fa-github {
   padding:10px 14px;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -1559,10 +1559,10 @@ footer .fa-github {
   transition: .5s;
   background-color: #322f30;
 }
-footer .fa-github:hover {
+.footer .fa-github:hover {
   background-color: #322f30;
 }
-footer .bt-social {
+.footer .bt-social {
   margin-right:20px;
   align-items:center;
   text-align: center;
@@ -1570,18 +1570,18 @@ footer .bt-social {
   cursor: pointer;
   padding:8px 12px;
 }
-footer.item.social {
+.footer.item.social {
   text-align: center
 }
 
 @media (max-width:991px) {
-  footer .item.social {
+  .footer .item.social {
       text-align: center;
-      margin-top: 20px
+      margin-top: 10px
   }
 }
 
-footer .item.social>a {
+.footer .item.social>a {
   font-size: 20px;
   width: 36px;
   height: 36px;
@@ -1595,17 +1595,17 @@ footer .item.social>a {
   opacity: 0.75
 }
 
-footer .item.social>a:hover {
+.footer .item.social>a:hover {
   opacity: 0.9
 }
 
-footer p {
+.footer-dev p {
   text-align: center;
-  margin: 30px 0px 30px 0px;
+  margin: 20px 0px 25px 0px;
 }
 
-footer p a {
-  color: #005fcc;
+.footer-dev p a {
+  color: #ffffff;
 }
 .student{
   opacity: 0.7;
