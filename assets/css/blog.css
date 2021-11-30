@@ -1734,6 +1734,9 @@ responsive
     margin-top: 60px;
     padding: 120px 0px;
   }
+  .contact-us .section-heading h2{
+    display:none;
+  }
   .contact-us .section-heading {
     text-align: center;
   }
