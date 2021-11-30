@@ -341,14 +341,13 @@ header
   display: contents;
 }
 .header-area .main-nav .logo {
-  background-image: url('vendor/fontawesome-free-5.15.4-web/css/all.css');
   line-height: 100px;
   color: #fff;
   font-size: 24px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  float: left;
+  float: left !important;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
